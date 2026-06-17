@@ -1,6 +1,6 @@
 # Example Voting App
 
-A simple distributed application running across multiple Docker containers.
+A simple distributed application running across multiple Docker containers.upadted by rakshitha
 
 ## Getting started
 
@@ -58,7 +58,7 @@ kubectl delete -f k8s-specifications/
 
 ## Notes
 
-The voting application only accepts one vote per client browser. It does not register additional votes if a vote has already been submitted from a client.
+The voting application only accepts one vote per client browser. It does not register additional votes if a vote has already been submitted from a client."updated by rakshitha "
 
 This isn't an example of a properly architected perfectly designed distributed app... it's just a simple
 example of the various types of pieces and languages you might see (queues, persistent data, etc), and how to
